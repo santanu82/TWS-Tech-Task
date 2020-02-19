@@ -1,0 +1,6 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\bin\Debug\RobotSpidersApp.Services.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\bin\Debug\RobotSpidersApp.Services.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\obj\Debug\RobotSpidersApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\obj\Debug\RobotSpidersApp.Services.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\obj\Debug\RobotSpidersApp.Services.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\RobotSpidersApp\RobotSpidersApp.Services\obj\Debug\RobotSpidersApp.Services.csprojAssemblyReference.cache
